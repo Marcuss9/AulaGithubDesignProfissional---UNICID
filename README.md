@@ -57,11 +57,13 @@ O processo tem dois jobs:
 3. Faça um push na `main` (ou execute o workflow manualmente).
 4. Confira a execução em **Actions** e, após o deploy bem-sucedido, acesse o endereço disponibilizado pelo GitHub Pages.
 
-Endereço esperado, caso a publicação esteja habilitada:
+## Site publicado
 
-https://marcuss9.github.io/AulaGithubDesignProfissional---UNICID/
+Acesse o projeto pelo GitHub Pages:
 
-**Atenção:** este repositório está privado no momento da configuração. A disponibilidade do GitHub Pages para repositórios privados depende do plano e das configurações da conta. Para uma demonstração pública, é possível avaliar tornar o repositório público.
+**[🌐 Acessar o site — Aula de GitHub UNICID](https://marcuss9.github.io/AulaGithubDesignProfissional---UNICID/)**
+
+O site é atualizado automaticamente quando o workflow de publicação na branch `main` é concluído com sucesso.
 
 ## Fluxo de aprendizagem sugerido
 
